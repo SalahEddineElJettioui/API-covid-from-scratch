@@ -1,0 +1,39 @@
+.container{
+    position: relative;
+    width: 100%;
+    height: 800px;
+    border: 1px solid black;
+
+}
+
+.countries{
+    width: 20vw;
+    height: 95%;
+    border: 1px solid black;
+    margin: 10px;
+    display: inline-block;
+    overflow: hidden;
+    overflow: scroll;
+}
+
+.chart{
+    width: 65vw;
+    height: 95%;
+    border: 1px solid black;
+    margin: 10px;
+    display: inline-block;
+
+}
+
+.clickk{
+    font-size: 16px;
+    border: 1px solid black;
+    background-color: blanchedalmond;
+    padding: 4px;
+}
+
+.clickk :hover {
+    background-color: aliceblue;
+    width: 80vw;
+    height: 100%;
+}
